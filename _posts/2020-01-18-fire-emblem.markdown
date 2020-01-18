@@ -11,9 +11,9 @@ What made similar projects fail in the past was attempting too much at once, whi
 I have done some preliminary research and came across [this webpage][fe-calculations], where all sorts of damage, accuracy metrics are listed in a comprehensive format. This will prove useful in designing a custom environment to play a basic version of the game in.
 
 I have not yet decided where to go for developing this game and see a few potential avenues to take:
-- Python: python is easy for quick-and-dirty development, drawing the game would not be the most attractive nor fastest to implement, but the speed of development might make this a good choice.
-- Unity: I have done some very basic things in Unity3D, and I suspect that Unity2D would be very helpful to create the game layout. It is however not the primary goal to make a playable Fire Emblem: Sacre Stones clone, rather to have the core logic implemented and having a bot learn how to play it efficiently.
-- SFML: I have previously dabbled with SFML for 2D game development, but it is probably overkill to do everything from scratch. Speed would be a plus, though, as a bot using tensorflow (haven't decided on this either) would work better in C++ or python than in Unity (unless I am unaware of a link between Unity and Tensorflow).
+- `Python`: python is easy for quick-and-dirty development, drawing the game would not be the most attractive nor fastest to implement, but the speed of development might make this a good choice.
+- `Unity`: I have done some very basic things in Unity3D, and I suspect that Unity2D would be very helpful to create the game layout. It is however not the primary goal to make a playable Fire Emblem: Sacre Stones clone, rather to have the core logic implemented and having a bot learn how to play it efficiently.
+- `SFML`: I have previously dabbled with SFML for 2D game development, but it is probably overkill to do everything from scratch. Speed would be a plus, though, as a bot using tensorflow (haven't decided on this either) would work better in C++ or python than in Unity (unless I am unaware of a link between Unity and Tensorflow).
 
 There are many different aspects of the game that have to be implemented:
 - Movement
