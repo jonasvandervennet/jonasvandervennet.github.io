@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Artificial Intelligence: Fire Emblem: The Sacred Stones"
+title:  "Artificial Intelligence in Fire Emblem: The Sacred Stones"
 date:   2020-01-18 12:06 +0100
 categories: gameplay bot AI
 ---
