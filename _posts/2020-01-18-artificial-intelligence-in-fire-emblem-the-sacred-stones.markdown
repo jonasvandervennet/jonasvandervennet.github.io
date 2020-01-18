@@ -2,7 +2,7 @@
 layout: post
 title:  "Artificial Intelligence in Fire Emblem: The Sacred Stones"
 date:   2020-01-18 12:06 +0100
-categories: gameplay bot AI
+categories: ai fe-sacred-stones
 ---
 Recently I had a surge of inspiration to start working on a game playing machine learning project. The game I thought about learning is Fire Emblem: The Sacred Stones, probably out of nostalgia. The idea to do a combination of game development and artificial intelligence comes up every so often, but maybe this is the one to stick around.
 
