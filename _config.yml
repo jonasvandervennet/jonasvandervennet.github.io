@@ -18,7 +18,7 @@ email: jonas.vdv@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I am a student Computer Science Engineering majoring in
   Artificial Intelligence. This is a list of some of my
-  perosnal projects.
+  personal projects.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jonas___vdv
