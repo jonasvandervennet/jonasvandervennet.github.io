@@ -32,4 +32,4 @@ There are many different aspects of the game that have to be implemented:
 
 This is far to much to design a model for from the get-go. Instead the first attempt of this project will only keep into account `Movement` and `Basic combat`. This should prove a sufficiently large challenge to model as a start. A baseline level that any model should be capable of clearing is the first floor of the `Tower of Valni` with a couple of high-level units.
 
-[fe-calculations]: https://serenesforest.net/the-sacred-stones/miscellaneous/calculations/]
+[fe-calculations]: https://serenesforest.net/the-sacred-stones/miscellaneous/calculations/
