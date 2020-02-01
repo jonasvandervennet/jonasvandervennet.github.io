@@ -9,6 +9,8 @@ As laid out in my previous post, I am currently in the process of recreating Fir
 
 Right now, it is possible to provide a json configuration file with level details to spin up a game instance with option for movement and basic combat. Movement is illustrated in the images below:
 
+<img src="{{ site.url }}/assets/FE-SS-Tower-of-valni-general-image.PNG" align="left" />
+<img src="{{ site.url }}/assets/FE-SS-Tower-of-valni-general-image.PNG" align="right" />
 ![General overview of the level]({{ site.url }}/assets/FE-SS-Tower-of-valni-general-image.PNG)
 ![Illustration of movement highlighting]({{ site.url }}/assets/FE-SS-Tower-of-valni-movement-image.PNG)
 
